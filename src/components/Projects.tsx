@@ -1,12 +1,13 @@
+﻿/* eslint-disable @typescript-eslint/no-explicit-any */
 'use client';
 
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 
 // Import images you placed in src/images
-import samplePlanning from '../../images/Sample planning model img.png';
-import dashboardExamples from '../../images/Dashboard examples.png';
-import weeklySnapshot from '../../images/weekly dashboard snapshot.png';
+import samplePlanning from '../images/Sample planning model img.png';
+import dashboardExamples from '../images/Dashboard examples.png';
+import weeklySnapshot from '../images/weekly dashboard snapshot.png';
 
 const projects = [
   {
@@ -127,7 +128,7 @@ function ProjectGrid({ items }: { items: typeof projects }) {
               onClick={() => setSelectedIndex(null)}
               aria-label="Close"
             >
-              ✕
+              âœ•
             </button>
 
             <div className="bg-white dark:bg-gray-900 p-4 rounded-md shadow-lg">

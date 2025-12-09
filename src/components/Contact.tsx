@@ -97,9 +97,10 @@ function ContactForm() {
         setStatus('error');
         setErrorMsg(data?.error || 'Failed to send message');
       }
-    } catch (err: any) {
+    } catch (err: unknown) {
       setStatus('error');
-      setErrorMsg(err?.message || String(err));
+      const msg = err instanceof Error ? err.message : String(err);
+      setErrorMsg(msg);
     }
   }
 

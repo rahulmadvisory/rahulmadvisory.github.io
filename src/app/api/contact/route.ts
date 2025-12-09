@@ -1,3 +1,4 @@
+﻿/* eslint-disable @typescript-eslint/no-explicit-any */
 import nodemailer from 'nodemailer';
 import { NextResponse } from 'next/server';
 
@@ -34,11 +35,11 @@ export async function POST(req: Request) {
     });
 
     const mailResult = await transporter.sendMail({
-      from: `${name} <${email}>`,
+      from: name + ' <' + email + '>',
       to: CONTACT_RECIPIENT,
-      subject: `Portfolio site contact from ${name}`,
-      text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
-      html: `<p><strong>Name:</strong> ${name}</p><p><strong>Email:</strong> ${email}</p><p>${message.replace(/\n/g, '<br/>')}</p>`,
+      subject: 'Portfolio site contact from ' + name,
+      text: 'Name: ' + name + '\\nEmail: ' + email + '\\n\\n' + message,
+      html: '<p><strong>Name:</strong> ' + name + '</p><p><strong>Email:</strong> ' + email + '</p><p>' + message.replace(/\\n/g, '<br/>') + '</p>',
     });
 
     return NextResponse.json({ ok: true, info: mailResult });
