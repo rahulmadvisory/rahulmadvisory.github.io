@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root{
+  /* Light theme (default) */
+  --bg-1: #f8fafc; /* very light */
+  --bg-2: #f1f5f9; /* subtle gradient */
+  --card: #ffffff; /* card background */
+  --text: #0f1724; /* main text */
+  --muted: #6b7280; /* muted text */
+  --accent: #0ea5a4; /* teal accent */
+  --accent-2: #2563eb; /* blue accent */
+  --card-shadow: 0 6px 18px rgba(15,23,36,0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Dark theme */
+    --bg-1: #071026;
+    --bg-2: #020617;
+    --card: #071126;
+    --text: #e6eef6;
+    --muted: #9ca3af;
+    --accent: #14b8a6;
+    --accent-2: #3b82f6;
+    --card-shadow: 0 8px 24px rgba(2,6,23,0.6);
+  }
+}
+
+body{
+  background: linear-gradient(180deg,var(--bg-1),var(--bg-2));
+  color: var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+/* Card base to reuse */
+.card {
+  background: var(--card);
+  color: var(--text);
+  border-radius: .75rem;
+  box-shadow: var(--card-shadow);
+}
+
+.muted { color: var(--muted); }
+
+/* Utility for section headings */
+.section-title { color: #0f1724; }
+.dark .section-title { color: #e6eef6; }
+
+/* ensure anchored sections are visible under fixed nav */
+section { scroll-margin-top: 5.5rem; }
+
