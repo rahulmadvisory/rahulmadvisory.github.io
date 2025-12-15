@@ -5,8 +5,7 @@ const nextConfig = {
   output: 'export',
   trailingSlash: true,
   images: { unoptimized: true },
-  basePath: '/rahulmadvisory',
-  assetPrefix: '/rahulmadvisory/',
+  basePath: '',
+  assetPrefix: '/',
 }
 module.exports = nextConfig
-export default nextConfig;
