@@ -6,7 +6,7 @@ const nextConfig = {
   trailingSlash: true,
   images: { unoptimized: true },
   basePath: '/rahulmadvisory',
-  assetPrefix: 'https://rahulmadvisory.github.io/rahulmadvisory/',
+  assetPrefix: '/rahulmadvisory/',
 }
 module.exports = nextConfig
 export default nextConfig;
