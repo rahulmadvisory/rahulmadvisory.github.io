@@ -1,11 +1,14 @@
 import type { NextConfig } from "next";
 
 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  basePath: '/docs',
+  assetPrefix: 'https://rahulmadvisory.github.io/docs/',
   trailingSlash: true,
-  images: { unoptimized: true },
-  basePath: '',
-  assetPrefix: '/',
+  images: {
+    unoptimized: true  // Required for GitHub Pages
+  }
 }
+
 module.exports = nextConfig
