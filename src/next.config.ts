@@ -1,9 +1,13 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  /* config options here */
-};
-module.exports = {
+
+const nextConfig = {
+  basePath: '/docs',
+  assetPrefix: 'https://rahulmadvisory.github.io/docs/',
+  trailingSlash: true,
   output: 'export',
-};
-export default nextConfig;
+  images: {
+    unoptimized: true  // GitHub Pages doesn't support Next.js image optimization
+  }
+}
+module.exports = nextConfig
