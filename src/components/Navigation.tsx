@@ -9,12 +9,13 @@ export default function Navigation() {
   const menuItems = [
     { name: 'Home', href: '#home' },
     { name: 'Services', href: '#services' },
-    { name: 'Skills', href: '#skills' },
-    { name: 'Experience', href: '#experience' },
     { name: 'Projects', href: '#projects' },
-    { name: 'Recommendations', href: '#recommendations' },
-    { name: 'About', href: '#about' },
+    // use a non-breaking space so the label doesn't wrap to two lines in narrow headers
+    { name: 'Why\u00A0Lumen', href: '#why-lumen' },
+    // keep this label non-breaking so it remains on a single line in narrow headers
+    { name: 'How\u00A0I\u00A0Work', href: '#how-i-work' },
     { name: 'Contact', href: '#contact' },
+    { name: 'About', href: '#about' },
   ];
 
   return (
@@ -23,8 +24,8 @@ export default function Navigation() {
         <div className="grid grid-cols-3 items-center h-16">
           {/* Logo / Left */}
           <div className="col-start-1">
-            <motion.a href="#home" whileHover={{ scale: 1.03 }} className="text-lg font-semibold text-gray-900 dark:text-white">
-              Rahul Malhotra
+            <motion.a href="#home" whileHover={{ scale: 1.03 }} className="text-lg md:text-2xl font-extrabold text-gray-900 dark:text-white tracking-wide">
+              Lumen
             </motion.a>
           </div>
 

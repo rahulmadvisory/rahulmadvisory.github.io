@@ -12,7 +12,7 @@ import weeklySnapshot from '../images/weekly dashboard snapshot.png';
 const projects = [
   {
     title: 'Sample planning model',
-    description: 'A sample planning model demonstrating structure, inputs, and outputs used for scenario analysis and planning.',
+    description: 'Driver-based model supporting long term planning, annual budgeting, and standard views for leadership decisions.',
     tech: ['Excel', 'Financial Modeling'],
     image: samplePlanning,
   },
@@ -41,18 +41,28 @@ export default function Projects() {
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
         >
-          <motion.h2 
+          <motion.h2
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
-            className="text-3xl md:text-4xl font-bold text-center mb-12"
+            className="section-title text-center mb-12"
           >
             Projects
           </motion.h2>
           <ProjectGrid items={projects} />
         </motion.div>
       </div>
+
+      {/* Additional business-case block */}
+      <div className="mt-8 max-w-4xl mx-auto">
+        <div className="card p-6 rounded-lg">
+          <h3 className="text-xl font-semibold mb-2">Payments Optimization Business Case</h3>
+          <p className="text-gray-700 dark:text-gray-300 mb-2">Built a scenario-based model to evaluate payment provider changes by linking authorization rates, fraud, and transaction costs to P&L impact — enabling faster decisions and more effective partner negotiations.</p>
+        </div>
+      </div>
+
+      <p className="mt-4 text-sm muted max-w-4xl mx-auto text-center">Examples shown are anonymized and recreated for illustrative purposes.</p>
     </section>
   );
 }

@@ -9,6 +9,7 @@
   --muted: #6b7280; /* muted text */
   --accent: #0ea5a4; /* teal accent */
   --accent-2: #2563eb; /* blue accent */
+  --accent-2-dark: #1e40af; /* darker blue for headings/accents */
   --card-shadow: 0 6px 18px rgba(15,23,36,0.06);
 }
 
@@ -33,6 +34,54 @@ body{
   -moz-osx-font-smoothing:grayscale;
 }
 
+/* Use next/font variables set in layout.tsx */
+body { font-family: var(--font-geist-sans), system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+code, pre, kbd { font-family: var(--font-geist-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Segoe UI Mono", monospace; }
+
+/* Typographic scale for consistent, professional text */
+.site-h1 {
+  /* Plain, readable headline with fluid scaling and balanced wrap */
+  font-weight: 500; /* plain / not heavy bold */
+  font-size: clamp(2.25rem, 6.5vw, 4.5rem);
+  line-height: 1.04;
+  max-width: 48ch; /* narrower to avoid single-word orphaning */
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: -0.01em;
+}
+.site-h2 {
+  /* smaller supporting line styled for clarity */
+  font-weight: 600;
+  font-size: clamp(1rem, 2.4vw, 1.25rem);
+  color: var(--muted);
+  margin-top: 0.5rem;
+}
+.lead {
+  @apply text-base md:text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto;
+}
+
+.accent-heading {
+  color: var(--accent-2-dark);
+  font-weight: 600;
+}
+.muted-small {
+  @apply text-sm text-gray-500 dark:text-gray-400 uppercase tracking-wider;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center bg-[color:var(--accent-2)] text-white px-6 py-3 rounded-full text-base font-semibold shadow-md hover:opacity-95 transition;
+}
+.btn-secondary {
+  @apply inline-flex items-center justify-center bg-white/5 text-[color:var(--accent-2)] px-5 py-3 rounded-full text-sm font-medium border border-[color:var(--accent-2)] hover:bg-[color:var(--accent-2)] hover:text-white transition;
+}
+
+/* Hero-specific utilities */
+.hero { display: grid; align-items: center; }
+
+@media (min-width: 768px) {
+  .hero { grid-template-columns: 1fr 420px; gap: 3rem; }
+}
+
 /* Card base to reuse */
 .card {
   background: var(--card);
@@ -46,6 +95,14 @@ body{
 /* Utility for section headings */
 .section-title { color: #0f1724; }
 .dark .section-title { color: #e6eef6; }
+
+/* Larger section-title scale for prominent section headers */
+.section-title {
+  font-weight: 700;
+  font-size: clamp(1.6rem, 3.4vw, 2.25rem);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+}
 
 /* ensure anchored sections are visible under fixed nav */
 section { scroll-margin-top: 5.5rem; }

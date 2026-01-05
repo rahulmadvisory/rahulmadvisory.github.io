@@ -33,7 +33,7 @@ const services = [
     ],
   },
   {
-    group: 'Dashboards & Automation',
+    group: 'Data Visualization & Automation',
     items: [
       { title: 'Dashboard Development', desc: 'Dashboards built on Looker, Power BI, Tableau, Data Studio, MicroStrategy, and other tools.' },
       { title: 'Process Automation', desc: 'Excel/Sheets automation for data processing, validations, and seamless reporting.' },

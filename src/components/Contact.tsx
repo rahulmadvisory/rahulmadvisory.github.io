@@ -21,7 +21,7 @@ export default function Contact() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
-            className="text-3xl md:text-4xl font-bold text-center mb-12"
+            className="section-title text-center mb-12"
           >
             Contact Me
           </motion.h2>
@@ -38,25 +38,31 @@ export default function Contact() {
               <ContactForm />
             ) : (
               <div className="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg text-center">
-                <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-                  For enquiries or freelance work, please reach out via email or LinkedIn.
+                <p className="text-lg text-gray-700 dark:text-gray-300 mb-2 text-center">
+                  Interested in working together?
+                </p>
+                <p className="text-lg text-gray-700 dark:text-gray-300 mb-4 text-center">
+                  Reach out to discuss your needs or explore a potential engagement
                 </p>
 
                 <a
                   href="mailto:rahulm.advisory@gmail.com"
-                  className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-medium mb-3 hover:bg-blue-700 transition-colors"
+                  className="btn-primary mb-3 inline-block"
                 >
                   Email: rahulm.advisory@gmail.com
                 </a>
 
-                <div className="mt-4">
-                  <a
-                    href="https://www.linkedin.com/in/rahul-malhotra-4778ab44/"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="text-blue-600 dark:text-blue-400 underline"
-                  >
-                    LinkedIn profile
+                <div className="mt-4 flex items-center justify-center gap-6">
+                  <a href="https://www.linkedin.com/in/rahul-malhotra-4778ab44/" target="_blank" rel="noreferrer" className="text-blue-600 dark:text-blue-400 underline">
+                    LinkedIn
+                  </a>
+
+                  <a href="https://www.upwork.com/freelancers/~0154619f56c9b2dd38?mp_source=share" target="_blank" rel="noreferrer" className="text-blue-600 dark:text-blue-400 underline">
+                    UpWork
+                  </a>
+
+                  <a href="https://www.malt.com/profile/rahulmalhotra" target="_blank" rel="noreferrer" className="text-blue-600 dark:text-blue-400 underline">
+                    Malt
                   </a>
                 </div>
               </div>
@@ -155,7 +161,7 @@ function ContactForm() {
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
           type="submit"
-          className="w-full bg-blue-600 text-white px-6 py-3 rounded-lg text-lg font-medium hover:bg-blue-700 transition-colors"
+          className="btn-primary w-full"
           disabled={status === 'sending'}
         >
           {status === 'sending' ? 'Sending…' : 'Send Message'}

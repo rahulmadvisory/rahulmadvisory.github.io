@@ -59,7 +59,7 @@ export default function Skills() {
           transition={{ duration: 0.7, ease: 'easeOut' }}
           viewport={{ once: true }}
         >
-          <motion.h2 className="text-2xl md:text-3xl font-bold text-center mb-6">Skills</motion.h2>
+          <motion.h2 className="section-title text-center mb-6">Skills</motion.h2>
 
           <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
             {skillGroups.map((group, gi) => (

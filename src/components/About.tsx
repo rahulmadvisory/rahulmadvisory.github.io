@@ -20,7 +20,7 @@ export default function About() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
             viewport={{ once: true }}
-            className="text-3xl md:text-4xl font-bold text-center mb-12"
+            className="site-h2 text-center mb-12"
           >
             About Me
           </motion.h2>
@@ -31,16 +31,16 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.4 }}
             viewport={{ once: true }}
           >
-            <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
+            <p className="lead mb-6">
               I’m a finance and analytics professional with hands-on experience in FP&A, business reporting, dashboard development, and data-driven decision support. Over the years, I’ve worked closely with leadership, cross-functional teams, and business stakeholders to build financial models, streamline planning cycles, automate reporting processes, and present insights that drive strategic decisions.
             </p>
-            <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
+            <p className="lead mb-6">
               My work sits at the intersection of finance, data, and storytelling. Whether it’s building a long-term planning model, designing dashboards that surface the right KPIs, or creating presentations for investor meetings, I focus on clarity, impact, and reliability.
             </p>
-            <p className="text-lg text-gray-600 dark:text-gray-300">
+            <p className="lead">
               I take pride in simplifying complex information, creating scalable processes, and building tools that make financial and business data accessible to everyone—from founders and managers to analysts and operators.
             </p>
-            <p className="text-lg text-gray-600 dark:text-gray-300 mt-4">
+            <p className="lead mt-4">
               If you’re looking for structured financial planning, meaningful analytics, or executive-ready outputs, I can help you bring order, accuracy, and insight to your data.
             </p>
           </motion.div>

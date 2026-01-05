@@ -1,0 +1,663 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  04/01/2026 12:15:51 ::1 GET /?id=11fd2223-d39a-4809-9c46-9011b4cc58cb&vscodeBrowserReqId=1767509151408
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 32 ms
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/36bf2db9701b3ec3.css
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 5 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 7 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 7 ms
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 12 ms
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 5 ms
+ HTTP  04/01/2026 12:15:51 ::1 GET /_next/static/chunks/39c41cf66bd152aa.js
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 8 ms
+ HTTP  04/01/2026 12:15:51 ::1 Returned 200 in 43 ms
+ HTTP  04/01/2026 12:16:42 ::1 GET /_next/static/chunks/36bf2db9701b3ec3.css
+ HTTP  04/01/2026 12:16:42 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/36bf2db9701b3ec3.css
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 12:17:30 ::1 GET /_next/static/chunks/39c41cf66bd152aa.js
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 0 ms
+ HTTP  04/01/2026 12:17:30 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 12:17:30 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 21:44:55 ::1 GET /
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 21 ms
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/chunks/834fb8b0dc462ee6.css
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 13 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 12 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 5 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 10 ms
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 5 ms
+ HTTP  04/01/2026 21:44:55 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 17 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 32 ms
+ HTTP  04/01/2026 21:44:56 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 21:44:56 ::1 GET /_next/static/chunks/de9360ff4267e885.js
+ HTTP  04/01/2026 21:44:56 ::1 Returned 200 in 11 ms
+ HTTP  04/01/2026 21:44:56 ::1 Returned 200 in 13 ms
+ HTTP  04/01/2026 21:44:55 ::1 Returned 200 in 65 ms
+ HTTP  04/01/2026 21:44:56 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 21:44:56 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /
+ HTTP  04/01/2026 21:46:44 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/834fb8b0dc462ee6.css
+ HTTP  04/01/2026 21:46:44 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/de9360ff4267e885.js
+ HTTP  04/01/2026 21:46:44 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 21:46:44 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 21:46:44 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/7d01f67224d3f17c.css
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 6 ms
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 5 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 6 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:34:49 ::1 GET /_next/static/chunks/0a72dd544cdfbe48.js
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 22:34:49 ::1 Returned 200 in 53 ms
+ HTTP  04/01/2026 22:34:50 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 22:34:50 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /
+ HTTP  04/01/2026 22:35:19 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/7d01f67224d3f17c.css
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 22:35:19 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 0 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/0a72dd544cdfbe48.js
+ HTTP  04/01/2026 22:35:19 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 22:35:19 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:35:19 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 22:35:19 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/bab05b0970580457.css
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 4 ms
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 11 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 6 ms
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 6 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /_next/static/chunks/0a72dd544cdfbe48.js
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 39 ms
+ HTTP  04/01/2026 22:39:38 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 22:39:38 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /
+ HTTP  04/01/2026 22:39:54 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 0 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/bab05b0970580457.css
+ HTTP  04/01/2026 22:39:54 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 4 ms
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 5 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 22:39:54 ::1 GET /_next/static/chunks/0a72dd544cdfbe48.js
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 2 ms
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 22:39:54 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 22:39:54 ::1 Returned 304 in 1 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/8a5d39ed9c33e6bc.css
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 1 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.ca98baf7.png
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 15 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 9 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/f67bd5024dc59cad.js
+ HTTP  04/01/2026 23:02:30 ::1 GET /_next/static/chunks/4d1773dc8137418d.js
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 2 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 3 ms
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 46 ms
+ HTTP  04/01/2026 23:02:30 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  04/01/2026 23:02:30 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 13:26:07 ::1 GET /_next/static/chunks/bab05b0970580457.css
+ HTTP  05/01/2026 13:26:07 ::1 Returned 404 in 80 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 20 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 27 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 14 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 19 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 11 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 67 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 55 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 43 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 46 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 21:37:20 ::1 GET /_next/static/chunks/3aa3792a82826331.js
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 114 ms
+ HTTP  05/01/2026 21:37:20 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 21:37:20 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /
+ HTTP  05/01/2026 21:41:49 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 21:41:49 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 21:41:49 ::1 GET /_next/static/chunks/3aa3792a82826331.js
+ HTTP  05/01/2026 21:41:49 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 21:41:49 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 21:41:49 ::1 Returned 304 in 0 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 12 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 21:47:12 ::1 GET /_next/static/chunks/8ddc43e7a1f65ff0.js
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 10 ms
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 50 ms
+ HTTP  05/01/2026 21:47:12 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 21:47:12 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /
+ HTTP  05/01/2026 21:47:58 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 9 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 3 ms
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 0 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 0 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/8ddc43e7a1f65ff0.js
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/fdd8ae154bc15173.js
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:47:58 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 0 ms
+ HTTP  05/01/2026 21:47:58 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 21:47:58 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 42 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/fab20616fbabf96e.css
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 7 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 22 ms
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 19 ms
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 17 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 33 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 15 ms
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 21 ms
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 31 ms
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 14 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 22:33:57 ::1 GET /_next/static/chunks/063ab84aa6fa6436.js
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 10 ms
+ HTTP  05/01/2026 22:33:57 ::1 Returned 200 in 159 ms
+ HTTP  05/01/2026 22:33:58 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:33:58 ::1 Returned 200 in 6 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /
+ HTTP  05/01/2026 22:35:35 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/fab20616fbabf96e.css
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:35:35 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:35:35 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/063ab84aa6fa6436.js
+ HTTP  05/01/2026 22:35:35 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:35:35 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:35:35 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 6 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/fab20616fbabf96e.css
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 10 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 6 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 11 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 20 ms
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 12 ms
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/319cf9878ba99c84.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 16 ms
+ HTTP  05/01/2026 22:52:31 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 5 ms
+ HTTP  05/01/2026 22:52:31 ::1 Returned 200 in 143 ms
+ HTTP  05/01/2026 22:52:32 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:52:32 ::1 Returned 200 in 38 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /
+ HTTP  05/01/2026 22:53:40 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/fab20616fbabf96e.css
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 0 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:53:40 ::1 GET /_next/static/chunks/319cf9878ba99c84.js
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:53:40 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:53:40 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:53:40 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:55:31 ::1 GET /
+ HTTP  05/01/2026 22:55:31 ::1 Returned 200 in 5 ms
+ HTTP  05/01/2026 22:55:31 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:55:31 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 22:55:31 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 22:55:31 ::1 Returned 200 in 7 ms
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 9 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 5 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 8 ms
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 6 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 16 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/c0fa39fcd9f7aaa5.js
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:55:32 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 18 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 12 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 22 ms
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 113 ms
+ HTTP  05/01/2026 22:55:32 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:55:32 ::1 Returned 200 in 29 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /
+ HTTP  05/01/2026 22:56:22 ::1 Returned 200 in 0 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 22:56:22 ::1 GET /_next/static/chunks/c0fa39fcd9f7aaa5.js
+ HTTP  05/01/2026 22:56:22 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:56:22 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:56:23 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:56:23 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/32f5be9773f80f56.css
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 6 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 5 ms
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 22:59:15 ::1 GET /_next/static/chunks/c0fa39fcd9f7aaa5.js
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 22:59:15 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 22:59:16 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 22:59:16 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/77da0d4bcd9e7fbe.css
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 6 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 5 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 4 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 7 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 13 ms
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 23:00:04 ::1 GET /_next/static/chunks/f7fcea7c939044d9.js
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 21 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 22 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 10 ms
+ HTTP  05/01/2026 23:00:04 ::1 Returned 200 in 102 ms
+ HTTP  05/01/2026 23:00:05 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 23:00:05 ::1 Returned 200 in 3 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /
+ HTTP  05/01/2026 23:01:31 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/media/797e433ab948586e-s.p.dbea232f.woff2
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/77da0d4bcd9e7fbe.css
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/media/Sample%20planning%20model%20img.9f9e43cd.png
+ HTTP  05/01/2026 23:01:31 ::1 Returned 200 in 2 ms
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 3 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/media/Dashboard%20examples.8e85f06e.png
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/media/weekly%20dashboard%20snapshot.5f05040e.png
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/fd5f064b2a3f9309.js
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/e4f32f5575cfb020.js
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/b32a0963684b9933.js
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/turbopack-b27eb6c10daccf90.js
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 2 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/42879de7b8087bc9.js
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/36633923eebfb9f9.js
+ HTTP  05/01/2026 23:01:31 ::1 GET /_next/static/chunks/f7fcea7c939044d9.js
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 Returned 200 in 1 ms
+ HTTP  05/01/2026 23:01:31 ::1 GET /favicon.ico?favicon.0b3bf435.ico
+ HTTP  05/01/2026 23:01:31 ::1 Returned 304 in 1 ms

@@ -1,12 +1,11 @@
 import Navigation from '../components/Navigation'
 import Hero from '../components/Hero'
-import About from '../components/About'
-import Skills from '../components/Skills'
-import Projects from '../components/Projects'
-import Contact from '../components/Contact'
-import Recommendations from '../components/Recommendations'
-import Experience from '../components/Experience'
 import Services from '../components/Services'
+import Projects from '../components/Projects'
+import WhyLumen from '../components/WhyLumen'
+import HowIWork from '../components/HowIWork'
+import About from '../components/About'
+import Contact from '../components/Contact'
 
 export default function Home() {
   return (
@@ -15,11 +14,10 @@ export default function Home() {
   <Hero />
   <Services />
   <Projects />
-  <Skills />
-  <Experience />
-  <Recommendations />
-  <About />
+  <WhyLumen />
+  <HowIWork />
   <Contact />
+  <About />
     </main>
   );
 }
